@@ -9,5 +9,5 @@
 // error but "Download PDF" and everything else will still work fine.
 // ---------------------------------------------------------------------------
 const APP_CONFIG = {
-  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbwunMflSSbXqZ3rkZwcLRbEtz77mRPBZAs2SIBRco3iPcRJ3DZiWduE3EmH_0emug-g/exec"
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbzWgspsPQVilh9Whmht8Nldzm0wnzCFxCxjVrsNP3L_Rpje4JhNlki36q0XrkFRcapFmw/exec"
 };
